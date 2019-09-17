@@ -44,7 +44,11 @@ class App extends Component {
             </div>
             <div className="card-body">
               {todo.description}
+              <div>
+                {todo.responsible}
+              </div>
             </div>
+            
             <div className="card-footer">
               <button
                 className="btn btn-danger"
