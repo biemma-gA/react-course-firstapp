@@ -36,12 +36,15 @@ class App extends Component {
       return (
         <div className="col-md-4" key={i}>
           <div className="card mt-4">
+            <img src={todo.image} className="card-img-top" alt="3">
+            </img>  
             <div className="card-title text-center">
               <h3>{todo.title}</h3>
               <span className="badge badge-pill badge-danger ml-2">
                 {todo.priority}
               </span>
             </div>
+
             <div className="card-body">
               {todo.description}
               <div>

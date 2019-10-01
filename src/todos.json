@@ -4,19 +4,22 @@
       "title": "task1",
       "responsible": "mark",
       "description": "lorem impsum",
-      "priority": "low"
+      "priority": "low",
+      "image": "https://www.geoenciclopedia.com/wp-content/uploads/2014/12/el_sol_600.jpg"
     },
     {
       "title": "task2",
       "responsible": "ryan",
       "description": "lorem impsum",
-      "priority": "medium"
+      "priority": "medium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/800px-Full_Moon_Luc_Viatour.jpg"
     },
     {
       "title": "task3",
       "responsible": "joseph",
       "description": "lorem impsum",
-      "priority": "high"
+      "priority": "high",
+      "image": "https://en.es-static.us/upl/2017/02/sirius-2-19-2018-Jim-Livingston-Custer-SD-lg-e1519156718851.jpg"
     }
   ]
 }
